@@ -46,7 +46,7 @@ class BroadcasterUI(QtGui.QMainWindow):
     def initUI(self):
 
         self.setGeometry(300, 300, 250, 150)
-        self.setWindowTitle('Broadcaster')
+        self.setWindowTitle('FreePlay')
         self.setWindowIcon(QtGui.QIcon('tower.png'))
         self.center()
 
